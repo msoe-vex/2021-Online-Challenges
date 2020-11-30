@@ -12,3 +12,9 @@ https://code.visualstudio.com/
 Install the LaTex workshop plugin
 https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 
+Install [Strawberry Perl](http://strawberryperl.com/)
+```cmd
+choco install StrawberryPerl
+```
+
+Check for updates in MiKTeX Console (under user mode)

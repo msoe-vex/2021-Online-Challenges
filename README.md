@@ -3,8 +3,10 @@ Online Challenges Repository for the 2020-2021 Season
 
 # Building
 
-Download MiKTeX
-https://miktex.org/download
+Download [MiKTeX](https://miktex.org/download)
+```cmd
+choco install miktex
+```
 
 Download VSCode
 https://code.visualstudio.com/

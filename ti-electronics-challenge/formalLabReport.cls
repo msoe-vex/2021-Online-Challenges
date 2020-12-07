@@ -49,6 +49,8 @@
 
 % Automatic inline centering of figures and tables
 \renewcommand*{\fps@figure}{H}
+\renewcommand*{\fps@table}{H}
+
 \g@addto@macro\@floatboxreset\centering
 
 % Custom title page options
